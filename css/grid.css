@@ -66,6 +66,11 @@ a {
     color: blue;
 }
 
+img {
+  width: 200px;
+}
+
+
 @media (max-width: 599px) {
     .container {
       grid-template-areas:
