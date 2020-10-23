@@ -22,3 +22,8 @@ body {
     right: 0;
     top: 30vh;
   }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
